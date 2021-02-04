@@ -1,16 +1,26 @@
-### Hi there 👋
+# Natalia C. de Amorim
 
-<!--
-**NataliaCarvalho03/NataliaCarvalho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Vision Developer!<br/> 
+I like to develop solutions using Digital Image Processing, Machine Learning and Deep Learning techniques.<br/>
 
-Here are some ideas to get you started:
+I have a Master Degree in Geodetic Sciences and nowadays I'm a Phd Student on the same subject.<br/>
+**_I like to transform scientific knowledge in solutions to the world!_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaCarvalho03&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NataliaCarvalho03&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
+## My WakaTime stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NataliaCarvalho03&theme=dracula" />
+</a>
+
+## Follow me
+
+📩 **My Gmail**: carvalho.natalia03@gmail.com<br/>
+💼 **My LinkedIn profile**: https://www.linkedin.com/in/natalia-carvalho-02901798/<br/>
+🎥 **My Blog**: https://dev4lab.github.io/<br/>
