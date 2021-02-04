@@ -14,10 +14,6 @@ I have a Master Degree in Geodetic Sciences and nowadays I'm a Phd Student on th
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NataliaCarvalho03&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
-## My WakaTime stats
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NataliaCarvalho03&theme=dracula" />
-</a>
 
 ## Follow me
 
