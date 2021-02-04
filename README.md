@@ -1,10 +1,10 @@
 # Natalia C. de Amorim
 
 I'm a Computer Vision Developer!<br/> 
-I like to develop solutions using Digital Image Processing, Machine Learning and Deep Learning techniques.<br/>
+Always searching for develop solutions using Digital Image Processing, Machine Learning and Deep Learning techniques.<br/>
 
 I have a Master Degree in Geodetic Sciences and nowadays I'm a Phd Student on the same subject.<br/>
-**_I like to transform scientific knowledge in solutions to the world!_**
+**_Transforming scientific knowledge in solutions to the world!_**
 
 ## My GitHub stats
 <a>
