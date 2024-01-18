@@ -1,10 +1,6 @@
 # Natalia C. de Amorim
 
-I'm a Computer Vision Developer!<br/> 
-Always searching for develop solutions using Digital Image Processing, Machine Learning and Deep Learning techniques.<br/>
-
-I have a Master Degree in Geodetic Sciences and nowadays I'm a Phd Student on the same subject.<br/>
-**_Transforming scientific knowledge in solutions to the world!_**
+## Computer Vision Engineer | Photogrammetry Specialist <br/>
 
 ## My GitHub stats
 <a>
@@ -18,5 +14,5 @@ I have a Master Degree in Geodetic Sciences and nowadays I'm a Phd Student on th
 ## Follow me
 
 📩 **My Gmail**: carvalho.natalia03@gmail.com<br/>
-💼 **My LinkedIn profile**: https://www.linkedin.com/in/natalia-carvalho-02901798/<br/>
-🎥 **My Blog**: https://dev4lab.github.io/<br/>
+💼 **My LinkedIn profile**: https://www.linkedin.com/in/nataliac-amorim/<br/>
+🎥 **My Blog**: https://nataliaamorim.substack.com/<br/>
